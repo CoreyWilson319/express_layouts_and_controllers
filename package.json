@@ -1,0 +1,25 @@
+{
+  "name": "express_layouts_and_controllers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-ejs-layouts": "^2.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoreyWilson319/express_layouts_and_controllers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoreyWilson319/express_layouts_and_controllers/issues"
+  },
+  "homepage": "https://github.com/CoreyWilson319/express_layouts_and_controllers#readme"
+}
